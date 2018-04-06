@@ -8,5 +8,16 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/antlr-runtime-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.asm-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.beans-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.context.support-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.context-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.core-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.expression-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.web.servlet-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/org.springframework.web-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/Back_up_file/Project/Spring-Lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
